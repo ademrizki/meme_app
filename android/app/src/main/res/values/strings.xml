@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">meme_apps</string>
+    <string name="facebook_app_id">2814118488914579</string>
+    <string name="fb_login_protocol_scheme">fb2814118488914579</string>
+</resources>
